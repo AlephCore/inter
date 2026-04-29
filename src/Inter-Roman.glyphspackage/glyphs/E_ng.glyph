@@ -10,7 +10,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (851,0);
+pos = (840,0);
 ref = _part.bottom_lfthook2_uc;
 }
 );
