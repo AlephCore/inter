@@ -10,7 +10,7 @@ shapes = (
 ref = q;
 },
 {
-pos = (756,0);
+pos = (764,0);
 ref = _part.top_r_hook;
 }
 );
