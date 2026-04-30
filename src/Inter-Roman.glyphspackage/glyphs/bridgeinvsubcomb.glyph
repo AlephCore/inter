@@ -3,6 +3,12 @@ category = Mark;
 glyphname = bridgeinvsubcomb;
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (-548,0);
+}
+);
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
@@ -13,6 +19,12 @@ ref = uni02FD;
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-647,0);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
@@ -23,6 +35,12 @@ ref = uni02FD;
 width = 26;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-491,0);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -34,6 +52,12 @@ ref = uni02FD;
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-582,0);
+}
+);
 layerId = m007;
 shapes = (
 {
@@ -44,6 +68,12 @@ ref = uni02FD;
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-663,0);
+}
+);
 layerId = m009;
 shapes = (
 {
@@ -54,6 +84,12 @@ ref = uni02FD;
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-555,0);
+}
+);
 layerId = m011;
 shapes = (
 {
@@ -65,5 +101,5 @@ ref = uni02FD;
 width = 0;
 }
 );
-unicode = 61102;
+unicode = 826;
 }
