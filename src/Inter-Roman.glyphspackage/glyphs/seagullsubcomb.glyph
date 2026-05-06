@@ -3,6 +3,12 @@ category = Mark;
 glyphname = seagullsubcomb;
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+pos = (-549, 0);
+}
+);
 guides = (
 {
 angle = 90;
@@ -53,6 +59,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-610, 0);
+}
+);
 guides = (
 {
 angle = 90;
@@ -103,6 +115,12 @@ nodes = (
 width = 30;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-512, 0);
+}
+);
 guides = (
 {
 angle = 90;
@@ -309,6 +327,12 @@ nodes = (
 width = 30;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-585, 0);
+}
+);
 guides = (
 {
 angle = 90;
@@ -397,6 +421,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-626, 0);
+}
+);
 guides = (
 {
 angle = 90;
@@ -527,6 +557,12 @@ nodes = (
 width = 30;
 },
 {
+anchors = (
+{
+name = _bottom;
+pos = (-576, 0);
+}
+);
 guides = (
 {
 angle = 90;
@@ -620,5 +656,5 @@ offset curve settings:
 L: 32,32,0%
 R: 70,80,0%
 B: 110,90,0%";
-unicode = 61125;
+unicode = 828;
 }

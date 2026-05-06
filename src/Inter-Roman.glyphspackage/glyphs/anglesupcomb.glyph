@@ -2,6 +2,12 @@
 glyphname = anglesupcomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (-401,1118);
+}
+);
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
@@ -26,6 +32,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (-669,1118);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
@@ -50,6 +62,12 @@ nodes = (
 width = 32;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (-272,1118);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -74,6 +92,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (-434,1056);
+}
+);
 layerId = m007;
 shapes = (
 {
@@ -98,6 +122,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (-685,1056);
+}
+);
 layerId = m009;
 shapes = (
 {
@@ -122,6 +152,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (-336,1056);
+}
+);
 layerId = m011;
 shapes = (
 {
@@ -146,5 +182,5 @@ nodes = (
 width = 0;
 }
 );
-unicode = 61140;
+unicode = 794;
 }
